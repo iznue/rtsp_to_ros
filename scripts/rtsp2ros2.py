@@ -17,6 +17,9 @@ def do_read(mountpoint, stpEvent):
     
     global pub0
     url='rtsp://223.171.62.1:11112/'+mountpoint
+    #url='rtsp://223.171.62.1:11112/'+mountpoint
+    
+    #url='rtsp://192.168.43.26/'+mountpoint
     ##url = 'rtsp://admin:admin@223.171.139.150:11112/raw'
     #url='rtsp://223.171.62.1:11111/'+mountpoint
     #url = 'rtsp://223.171.62.1:11111/raw' 
